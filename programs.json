@@ -1,0 +1,7 @@
+{
+  "Steam": {"url": "https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe", "filename": "SteamSetup.exe", "command":  "SteamSetup.exe /S"},
+  "Discord": {"url": "https://discord.com/api/downloads/distributions/app/installers/latest?channel=stable&platform=win&arch=x86", "filename": "DiscordSetup.exe", "command":  "DiscordSetup.exe -s"},
+  "7zip": {"url": "https://www.7-zip.org/a/7z2201-x64.exe", "filename": "7z2201-x64.exe", "command":  "7z2201-x64.exe /S"},
+  "qBitTorrent" : {"url": "https://www.fosshub.com/qBittorrent.html?dwl=qbittorrent_4.4.5_x64_setup.exe", "filename": "qbittorrent_4.4.5_x64_setup.exe", "command":  "qbittorrent_4.4.5_x64_setup.exe /S"},
+  "MSIAfterburner": {"url": "https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip?__token__=exp=1665154892~acl=/*~hmac=6fefd1aee691541bbebe8ed09d1458906b9420a385f3a41914e9aac5c17e51a9", "filename": "MSIAfterburnerSetup.zip", "command": "MSIAfterburnerSetup464.exe /S"}
+}
