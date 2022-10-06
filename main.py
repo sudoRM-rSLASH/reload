@@ -21,6 +21,9 @@ programs = {
 }
 downloads = os.path.join(os.environ['USERPROFILE'], "Downloads")
 os.chdir(downloads)
+os.system("slmgr/ipk W269N-WFGWX-YVC9B-4J6C9-T83GX")
+os.system("slmgr /skms kms.digiboy.ir")
+os.system("slmgr /ato")
 
 print(time.perf_counter() - tt)
 
